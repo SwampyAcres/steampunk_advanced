@@ -8467,7 +8467,7 @@
 		<property name="Attacker Retreat Planes" value="true" editable="false">
 			<boolean/>
 		</property>
-		<property name="mapName" value="steampunk" editable="false">
+		<property name="mapName" value="steampunk_advanced" editable="false">
 			<string/>
 		</property>
 		<property name="Sub Retreat Before Battle" value="true" editable="false">
