@@ -727,6 +727,14 @@
 		<connection t1="German East Africa" t2="Uganda"/>
 		<connection t1="German East Africa" t2="Northern Rhodesia"/>
 		<connection t1="German East Africa" t2="Rwanda"/>
+		<connection t1="Portugese East Africa" t2="German East Africa"/>
+		<connection t1="Portugese East Africa" t2="Northern Rhodesia"/>
+		<connection t1="Portugese East Africa" t2="Southern Rhodesia"/>
+		<connection t1="Portugese East Africa" t2="Lake Nyasa"/>
+		<connection t1="Portugese East Africa" t2="Nyasaland"/>
+		<connection t1="Portugese East Africa" t2="Transvaal"/>
+		<connection t1="Portugese East Africa" t2="Natal"/>
+		<connection t1="Portugese East Africa" t2="Sea Zone 92 Mozambique Channel"/>
 		<connection t1="Port Nemo" t2="Sea Zone 122 Bismarck Sea"/>
 		<connection t1="Port Nemo" t2="Cannibal Coast"/>
 		<connection t1="Port Nemo" t2="Nautilus Point"/>
@@ -878,6 +886,13 @@
 		<connection t1="Franche-Comte" t2="Switzerland"/>
 		<connection t1="French Guiana" t2="Sea Zone 47 Mid Atlantic"/>
 		<connection t1="French Guiana" t2="Amazon"/>
+		<connection t1="French Guiana" t2="Dutch Guiana"/>
+		<connection t1="Dutch Guiana" t2="Sea Zone 47 Mid Atlantic"/>
+		<connection t1="Dutch Guiana" t2="Amazon"/>
+		<connection t1="Dutch Guiana" t2="British Guiana"/>
+		<connection t1="British Guiana" t2="Sea Zone 47 Mid Atlantic"/>
+		<connection t1="British Guiana" t2="Amazon"/>
+		<connection t1="British Guiana" t2="Venezuela"/>
 		<connection t1="French Guinea" t2="Liberia"/>
 		<connection t1="French Guinea" t2="Ivory Coast"/>
 		<connection t1="French Guinea" t2="Mali"/>
@@ -885,6 +900,9 @@
 		<connection t1="French Guinea" t2="Sierra Leone"/>
 		<connection t1="French Guinea" t2="Upper Volta"/>
 		<connection t1="French Guinea" t2="Sea Zone 50 Mid Atlantic"/>
+		<connection t1="French Guinea" t2="Portugese Guinea"/>
+		<connection t1="Portugese Guinea" t2="Senegal"/>
+		<connection t1="Portugese Guinea" t2="Sea Zone 50 Mid Atlantic"/>
 		<connection t1="French Somaliland" t2="British Somaliland"/>
 		<connection t1="French Somaliland" t2="Ethiopia"/>
 		<connection t1="French Somaliland" t2="Eritrea"/>
