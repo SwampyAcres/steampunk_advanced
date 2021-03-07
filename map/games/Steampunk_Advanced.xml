@@ -3230,7 +3230,7 @@
 	<!-- technology -->
 	<technology>
 		<technologies>
-			<techname name="victoryBonds"/>
+			<techname name="warBonds"/>
 			<techname name="industry"/>
 			<techname name="workingWomen"/>
 			<techname name="science"/>
@@ -3252,7 +3252,7 @@
 		<playerTech player="Germany">
 			<category name="Industry">
 				<!--
-                <tech name="victoryBonds"/> 
+                <tech name="warBonds"/> 
                 <tech name="workingWomen"/>
                 -->
 				<tech name="industry"/>
@@ -3279,7 +3279,7 @@
 		</playerTech>
 		<playerTech player="France">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3307,7 +3307,7 @@
 		</playerTech>
 		<playerTech player="Alliance">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3333,7 +3333,7 @@
 		</playerTech>
 		<playerTech player="Austria">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3375,7 +3375,7 @@
 		</playerTech>
 		<playerTech player="Martians">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="science"/>
 			</category>
@@ -3386,7 +3386,7 @@
 		</playerTech>
 		<playerTech player="Turkey">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3438,7 +3438,7 @@
 		</playerTech>
 		<playerTech player="Russia">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3464,7 +3464,7 @@
 		</playerTech>
 		<playerTech player="Communists">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -3489,7 +3489,7 @@
 		</playerTech>
 		<playerTech player="USA">
 			<category name="Industry">
-				<tech name="victoryBonds"/>
+				<tech name="warBonds"/>
 				<tech name="industry"/>
 				<tech name="workingWomen"/>
 				<tech name="science"/>
@@ -7063,7 +7063,7 @@
 			<option name="when" value="after:USATechActivation"/>
 			<option name="uses" value="1000"/>
 		</attachment>
-		<attachment name="techAbilityAttachment" attachTo="victoryBonds" javaClass="games.strategy.triplea.attachments.TechAbilityAttachment" type="technology">
+		<attachment name="techAbilityAttachment" attachTo="warBonds" javaClass="games.strategy.triplea.attachments.TechAbilityAttachment" type="technology">
 			<option name="warBondDiceSides" value="10"/>
 			<option name="warBondDiceNumber" value="2"/>
 			<option name="productionBonus" value="1:Factory"/>
