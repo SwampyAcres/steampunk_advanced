@@ -1,0 +1,3 @@
+map_name: steampunk_advanced
+games:
+- {game_name: Steampunk Advanced, file_name: Steampunk_Advanced.xml}
